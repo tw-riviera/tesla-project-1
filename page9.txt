@@ -1,0 +1,38 @@
+        <!-- Page 9: Chapter 7 -->
+        <div class="book-page chapter" id="page-9">
+            <h1 class="chapter-title">第七章　特斯拉的科學如何刺激現代人對科學的反思<br><span style="font-size:0.5em;">—— 從暴風雨之子到AI時代的召喚</span></h1>
+            <div class="hero-image">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Tesla_lab_coil1.jpg" alt="特斯拉實驗室中的設備">
+                <div class="overlay-text">頻率　能量　振動</div>
+            </div>
+            <p>尼古拉·特斯拉離世已逾八十載，但他留下的不只是發明，而是對科學本質最深刻的質疑。在AI與量子時代，他的故事像一道穿越時空的閃電，持續照亮我們對科學、創新與人類未來的反思。</p>
+
+            <div class="reflection-card">
+                <strong>Tesla vs Edison：想像力與商業化的永恆拉鋸</strong><br>
+                愛迪生代表可商業化的漸進式創新（incremental innovation），特斯拉則是純粹的願景家（visionary）。這提醒我們：當科學只服務於短期利潤時，天才往往成為犧牲品。在AI時代，這個問題更加尖銳——當算法只為點擊率和廣告收益而優化時，誰來守護那些無法立即變現的基礎研究？
+            </div>
+
+            <figure class="image-right">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Nikola_Tesla_by_Sarony.jpg" alt="特斯拉深思的肖像">
+                <figcaption>特斯拉：科學應為全人類，而非少數資本</figcaption>
+            </figure>
+
+            <p>專利制度與知識產權的倫理，也是特斯拉留下的沉重課題。他一生申請超過300項專利，卻死於貧困。這迫使我們追問：在AI時代，我們該如何保護真正的先知？當大科技公司以海量專利壟斷創新時，獨立發明家的出路在哪裡？</p>
+
+            <blockquote class="pull-quote">「如果你想找到宇宙的秘密，就用能量、頻率與振動去思考。」</blockquote>
+
+            <div class="reflection-card">
+                <strong>頻率、能量、振動的現代啟示</strong><br>
+                特斯拉的宇宙觀在量子物理、AI與共振理論中得到了前所未有的呼應。他相信宇宙萬物都以特定的頻率振動，而理解這些頻率就能理解宇宙的奧秘。今天，量子力學證實了物質的波粒二象性，AI神經網絡本質上也是頻率與權重的共振。我們是否該重新思考：科學不只是征服自然，而是與宇宙頻率共舞？
+            </div>
+
+            <p>在AI時代，我們比任何時候都更需要特斯拉這樣「純粹的願景家」。天才不該死於貧困，社會有責任為真正的探索者提供庇護。讓我們記住：今天享受的每一度電，背後都站著一個孤獨的天才。</p>
+
+            <hr class="electric">
+
+            <p style="text-align:center; font-style:italic; font-size:1.25rem; margin-top:60px;">
+                「宇宙的秘密不在於我們征服了多少，而在於我們是否學會與它共振。」<br>
+                ——尼古拉·特斯拉的精神，獻給21世紀的每一位探索者。
+            </p>
+        </div>
+

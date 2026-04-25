@@ -1,0 +1,29 @@
+        <!-- Page 11: References -->
+        <div class="book-page" id="page-11">
+            <h1 class="chapter-title">參考資料與延伸閱讀</h1>
+            <div style="font-size:1.2rem; line-height:2.2; max-width:820px; margin:60px auto;">
+                <h3 style="color:#00f0ff; margin:40px 0 20px;">核心參考書籍</h3>
+                <p>• 《Wizard: The Life and Times of Nikola Tesla》 — Marc J. Seifer</p>
+                <p>• 《Tesla: Inventor of the Electrical Age》 — W. Bernard Carlson</p>
+                <p>• 《My Inventions: The Autobiography of Nikola Tesla》 — Nikola Tesla</p>
+                <p>• 《The Lost Journals of Nikola Tesla》 — Tim R. Swartz</p>
+
+                <h3 style="color:#00f0ff; margin:40px 0 20px;">圖片來源</h3>
+                <p>• 所有歷史照片均來自 Wikimedia Commons 公共領域</p>
+                <p>• 特斯拉實驗室照片來自 The Public Domain Review</p>
+                <p>• 插圖為 AI 生成藝術創作</p>
+
+                <h3 style="color:#00f0ff; margin:40px 0 20px;">延伸資源</h3>
+                <p>• Tesla Science Center at Wardenclyffe (www.teslasciencecenter.org)</p>
+                <p>• Tesla Memorial Society of New York</p>
+                <p>• 美國專利商標局特斯拉專利檔案</p>
+            </div>
+            <hr class="electric">
+            <p style="text-align:center; font-size:1.1rem; color:#b0b0ff; margin-top:60px;">
+                本電子書致敬尼古拉·特斯拉（1856–1943）<br>
+                願光明永遠照亮人類的前路。
+            </p>
+        </div>
+
+    </div>
+

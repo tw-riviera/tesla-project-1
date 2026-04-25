@@ -1,0 +1,20 @@
+        <!-- Page 8: Chapter 6 -->
+        <div class="book-page chapter" id="page-8">
+            <h1 class="chapter-title">第六章　如果他未死……<br><span style="font-size:0.6em;">—— 對世界的可能改變（What If）</span></h1>
+            <div class="hero-image">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Wardenclyffe_1904.jpg" alt="Wardenclyffe Tower">
+                <div class="overlay-text">無線電力　重塑的世紀</div>
+            </div>
+            <p>這是一個思想實驗：如果特斯拉在多活了二十年，如果Wardenclyffe Tower獲得了足夠的資金支持並最終成功運作，世界將會變得多麼不同？</p>
+            <p><strong style="color:#00f0ff;">全球無線電力時代提早到來</strong>——假設Wardenclyffe Tower成功運作，地球上每一個角落都將免費或極低成本地獲得電力。偏遠的非洲村落、亞馬遜的部落、喜馬拉雅的山谷，都將被電力之光照亮。能源的民主化將徹底消除能源貧困。</p>
+            <figure class="image-right">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Wardenclyffe_1904.jpg" alt="Wardenclyffe Tower想像圖">
+                <figcaption>Wardenclyffe Tower 若成功：全球無線電力時代的開端</figcaption>
+            </figure>
+            <p><strong style="color:#00f0ff;">石油霸權的終結</strong>——如果電力可以像空氣一樣無處不在，人類對化石燃料的依賴將急劇下降。20世紀中東石油爭奪戰、無數因石油而起的戰爭，或許根本不會發生。中東地緣政治的格局將被完全改寫。</p>
+            <p><strong style="color:#00f0ff;">電動車革命提前一百年</strong>——特斯拉的無線電力系統將使電動車變得無比便捷。想像一下，汽車在行駛中不斷接收無線充電，無需加油站。底特律的汽車巨頭們可能從一開始就以電力為核心。</p>
+            <p><strong style="color:#00f0ff;">無線通訊提前數十年</strong>——特斯拉的系統本質上同時也是一種全球通訊網絡。手機、互聯網的出現可能提前數十年，人類的資訊時代可能從1920年代就開始了。</p>
+            <p>當然，歷史無法重來。但這個思想實驗提醒我們：一個天才的隕落，可能意味著整個人類文明進程的延遲。</p>
+            <blockquote class="pull-quote">「如果我的系統成功，能源將像空氣一樣免費流通，戰爭將因資源的豐裕而變得毫無意義。」</blockquote>
+        </div>
+

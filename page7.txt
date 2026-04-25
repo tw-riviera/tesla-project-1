@@ -1,0 +1,20 @@
+        <!-- Page 7: Chapter 5 -->
+        <div class="book-page chapter" id="page-7">
+            <h1 class="chapter-title">第五章　晚年孤獨與未竟之夢<br><span style="font-size:0.6em;">—— 被世界遺忘的天才（1895–1943）</span></h1>
+            <div class="hero-image">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Nikola_Tesla_by_Sarony.jpg" alt="特斯拉的經典肖像">
+                <div class="overlay-text">孤獨的塔　未竟的電光</div>
+            </div>
+            <p>1901年，特斯拉開始了他畢生最宏大的計畫——Wardenclyffe Tower。這座高達57米的巨型塔樓，位於紐約長島，旨在實現他的終極夢想：全球無線電力傳輸。他計劃將電力以無線方式傳送到世界每一個角落，讓能源像空氣一樣免費。</p>
+            <p>J.P.摩根最初投入15萬美元支持這個項目。但當摩根發現特斯拉的真正目標不是有線電報，而是免費的無線電力時，這位資本巨鱷意識到這將摧毀整個能源市場的利潤模式。1904年，摩根撤資，Wardenclyffe Tower停工，最終在1917年被拆除。</p>
+            <figure class="image-right">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Wardenclyffe_Tower_-_1904.jpg" alt="Wardenclyffe Tower 1904年">
+                <figcaption>Wardenclyffe Tower（1904年）：最偉大卻最悲慘的未竟之夢</figcaption>
+            </figure>
+            <p>從此，特斯拉的人生開始了漫長的衰落。他變得越來越孤獨，越來越偏執，對鴿子產生了近乎宗教般的情感。他晚年住在紐約的酒店裡，拖欠著一筆又一筆的帳單。</p>
+            <p>儘管如此，他的頭腦從未停止運轉。他提出了「死亡射線」（Teleforce）的概念——一種能夠擊落敵機的能量武器；他構想了地震機器（Oscillator），聲稱能以共振頻率摧毀整座大橋；他談論著反重力飛行器和星際通訊。</p>
+            <p>世人將他視為瘋子。沒有人願意再為這個老人投資。</p>
+            <p>1943年1月7日，尼古拉·特斯拉在紐約人酒店（Hotel New Yorker）的3327房間孤獨離世，享年86歲。他的遺體直到兩天後才被發現。</p>
+            <blockquote class="pull-quote">「我的一生就是一場漫長的戰鬥，我從未放棄過。但世界，卻放棄了我。」</blockquote>
+        </div>
+

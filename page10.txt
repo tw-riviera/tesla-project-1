@@ -1,0 +1,52 @@
+        <!-- Page 10: Timeline -->
+        <div class="book-page" id="page-10">
+            <h1 class="chapter-title">時間軸　Tesla一生</h1>
+            <div class="timeline-container">
+                <div class="timeline-line"></div>
+                <div class="timeline-item left">
+                    <div class="timeline-dot"></div>
+                    <strong>1856</strong>　出生於克羅地亞斯米連村
+                </div>
+                <div class="timeline-item right">
+                    <div class="timeline-dot"></div>
+                    <strong>1873</strong>　重病瀕死，獲准學習工程
+                </div>
+                <div class="timeline-item left">
+                    <div class="timeline-dot"></div>
+                    <strong>1882</strong>　布達佩斯靈感時刻，領悟旋轉磁場
+                </div>
+                <div class="timeline-item right">
+                    <div class="timeline-dot"></div>
+                    <strong>1884</strong>　抵達美國，僅帶四美分
+                </div>
+                <div class="timeline-item left">
+                    <div class="timeline-dot"></div>
+                    <strong>1887</strong>　遇見威斯汀豪斯，交流電時代開始
+                </div>
+                <div class="timeline-item right">
+                    <div class="timeline-dot"></div>
+                    <strong>1893</strong>　芝加哥世博會，AC大獲全勝
+                </div>
+                <div class="timeline-item left">
+                    <div class="timeline-dot"></div>
+                    <strong>1895</strong>　尼加拉瀑布水力發電站啟用
+                </div>
+                <div class="timeline-item right">
+                    <div class="timeline-dot"></div>
+                    <strong>1898</strong>　展示無線電遙控船
+                </div>
+                <div class="timeline-item left">
+                    <div class="timeline-dot"></div>
+                    <strong>1901</strong>　Wardenclyffe Tower開工
+                </div>
+                <div class="timeline-item right">
+                    <div class="timeline-dot"></div>
+                    <strong>1904</strong>　J.P.摩根撤資，夢想破滅
+                </div>
+                <div class="timeline-item left">
+                    <div class="timeline-dot"></div>
+                    <strong>1943</strong>　孤獨逝世於紐約人酒店，享年86歲
+                </div>
+            </div>
+        </div>
+

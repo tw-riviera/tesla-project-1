@@ -1,0 +1,21 @@
+        <!-- Page 6: Chapter 4 -->
+        <div class="book-page chapter" id="page-6">
+            <h1 class="chapter-title">第四章　主要科學成就<br><span style="font-size:0.6em;">—— 改變世界的電光與永恆的火種（1880s–1910s）</span></h1>
+            <div class="hero-image">
+                <img src="https://pdr-assets.b-cdn.net/collections/nikola-tesla-in-his-laboratory/tesla-with-equipment.jpg" alt="特斯拉在科羅拉多斯普林斯實驗室">
+                <div class="overlay-text">電光之父　現代電力之源</div>
+            </div>
+            <p>尼古拉·特斯拉的科學成就如同一座巍峨的山峰，聳立在現代科技的地平線上。他的每一項發明，都深刻地改變了人類文明的軌跡。</p>
+            <p><strong style="color:#00f0ff;">旋轉磁場與多相交流電系統</strong>——這是特斯拉最偉大的發現。它不僅是現代電力傳輸的基石，更使得電能可以跨越數百公里高效傳輸，徹底改變了工業革命的進程。</p>
+            <p><strong style="color:#00f0ff;">感應馬達</strong>——特斯拉發明的交流感應馬達，至今仍然是現代工業和電動交通工具的動力心臟。今天每一輛特斯拉電動車，都以他的名字命名，使用的基本原理仍然是他發明的感應馬達。</p>
+            <figure class="image-right">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Tesla-coil-discharge.jpg" alt="特斯拉線圈的電弧放電">
+                <figcaption>特斯拉線圈（Tesla Coil）釋放出壯麗的人工閃電</figcaption>
+            </figure>
+            <p><strong style="color:#00f0ff;">特斯拉線圈（Tesla Coil）</strong>——這個裝置能夠產生數百萬伏特的高壓電，釋放出壯麗的人工閃電。它不僅是無線電技術的先驅，更是後來所有高頻電力技術的基礎。今天，你仍然可以在科學博物館中看到特斯拉線圈的震撼表演。</p>
+            <p><strong style="color:#00f0ff;">無線電遙控技術</strong>——1898年，特斯拉在麥迪遜廣場花園公開展示了一艘無線電遙控船，震驚了全場。這是人類歷史上第一次無線遙控，被譽為「遠程自動化」的誕生。</p>
+            <p><strong style="color:#00f0ff;">尼加拉瀑布水力發電站</strong>——1895年，特斯拉設計的世界上第一座大型水力發電站投入運營，成功將交流電輸送到數十公里外的水牛城，證明了交流電的無限潛力。</p>
+            <p>他還提出了全球無線電力傳輸的大膽概念——讓能源像無線電波一樣自由傳播到世界每個角落，無需電線。這個夢想遠遠超越了當時的科技水平，但在今天的無線充電技術中，我們終於看到了它的雛形。</p>
+            <blockquote class="pull-quote">「電流就是生命。它是宇宙的脈動，是萬物運行的根本力量。」</blockquote>
+        </div>
+

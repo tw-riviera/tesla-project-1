@@ -1,0 +1,19 @@
+        <!-- Page 5: Chapter 3 -->
+        <div class="book-page chapter" id="page-5">
+            <h1 class="chapter-title">第三章　朋友、合作者與對手<br><span style="font-size:0.6em;">—— 孤獨天才的溫暖與背叛（1880s–1910s）</span></h1>
+            <div class="hero-image">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Nikola_Tesla_by_Sarony_c1898.jpg" alt="特斯拉手持無線燈泡的經典肖像">
+                <div class="overlay-text">少數摯友　無數對手</div>
+            </div>
+            <p>尼古拉·特斯拉的一生極度孤獨。他一生從未結婚，幾乎沒有社交生活，甚至對人群有著某種厭惡。他每天只睡兩小時，其餘時間全部沉浸在實驗與思考中。然而，在這極度孤獨的生命裡，少數幾個人卻為他帶來了難得的溫暖與理解。</p>
+            <p>他最重要的合作者是喬治·威斯汀豪斯。這位企業家不僅以重金買下特斯拉的專利，更在特斯拉最困難的時候給予支持。當威斯汀豪斯公司在財務危機中要求特斯拉放棄專利使用費時，特斯拉慷慨地撕毀了合同，說：「你救了我的命，現在我要救你的公司。」這一決定讓他損失了數百萬美元，但也展現了他的人格高度。</p>
+            <figure class="image-right">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Twain_in_Tesla%27s_Lab.jpg" alt="馬克·吐溫在特斯拉的實驗室">
+                <figcaption>馬克·吐溫在特斯拉實驗室中體驗高頻振動器（1894年）</figcaption>
+            </figure>
+            <p>在友情方面，最著名的是特斯拉與馬克·吐溫的深厚情誼。這位大作家經常光顧特斯拉的實驗室，兩人成為了忘年之交。有一次，特斯拉讓吐溫站上他發明的高頻振動平台，聲稱可以治療便秘。幾分鐘後，吐溫驚慌失措地跳下平台，奔向洗手間——振動效果太過強大了！</p>
+            <p>另一位摯友是詩人羅伯特·安德伍德·詹森（Robert Underwood Johnson），他經常為特斯拉舉辦晚宴，讓這位不善社交的科學家結識紐約的文化精英。</p>
+            <p>然而，特斯拉最大的對手同樣令人難忘。湯瑪斯·愛迪生與他的「電流之戰」已成為科學史上的經典對決。更致命的打擊來自J.P.摩根——這位金融大亨最初資助了特斯拉的Wardenclyffe Tower計畫，卻在發現特斯拉意圖提供「免費能源」時，憤然撤資，導致特斯拉最偉大的夢想破滅。</p>
+            <blockquote class="pull-quote">「科學是至高無上的。金錢、名聲、權力，在真理面前都是次要的。」</blockquote>
+        </div>
+

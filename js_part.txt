@@ -1,0 +1,66 @@
+
+    <!-- 底部導航 -->
+    <div class="bottom-nav">
+        <button class="nav-btn" onclick="prevPage()">&#8592;</button>
+        <div class="page-info"><span id="currentPageNum">1</span> / <span id="totalPages">12</span></div>
+        <button class="nav-btn" onclick="nextPage()">&#8594;</button>
+    </div>
+
+    <script>
+        let currentPageIndex = 0;
+        const pages = document.querySelectorAll('.book-page');
+        const totalPages = pages.length;
+
+        function showPage(index) {
+            if (index < 0 || index >= totalPages) return;
+            const current = pages[currentPageIndex];
+            current.classList.add('flipping-out');
+            setTimeout(() => {
+                pages.forEach((page, i) => {
+                    page.classList.remove('active', 'flipping-out');
+                    if (i === index) page.classList.add('active');
+                });
+                currentPageIndex = index;
+                document.getElementById('currentPageNum').textContent = index + 1;
+            }, 950);
+        }
+
+        function nextPage() { showPage((currentPageIndex + 1) % totalPages); }
+        function prevPage() { showPage((currentPageIndex - 1 + totalPages) % totalPages); }
+
+        document.addEventListener('keydown', e => {
+            if (e.key === 'ArrowRight') nextPage();
+            if (e.key === 'ArrowLeft') prevPage();
+        });
+
+        let touchStartX = 0;
+        document.getElementById('bookContainer').addEventListener('touchstart', e => {
+            touchStartX = e.changedTouches[0].screenX;
+        });
+        document.getElementById('bookContainer').addEventListener('touchend', e => {
+            const diff = touchStartX - e.changedTouches[0].screenX;
+            if (diff > 80) nextPage();
+            if (diff < -80) prevPage();
+        });
+
+        function toggleTOC() {
+            document.getElementById('sidebarTOC').classList.toggle('active');
+        }
+
+        // Close sidebar when clicking outside
+        document.addEventListener('click', e => {
+            const sidebar = document.getElementById('sidebarTOC');
+            const tocButton = document.querySelector('.toc-button');
+            if (!sidebar.contains(e.target) && e.target !== tocButton && sidebar.classList.contains('active')) {
+                toggleTOC();
+            }
+        });
+
+        window.onload = () => {
+            document.getElementById('currentPageNum').textContent = '1';
+            console.log('%c Tesla E-Book Loaded Successfully ', 'background:#00f0ff; color:#0a0a2a; font-size:16px; font-weight:bold; padding:8px 16px; border-radius:8px;');
+        };
+    </script>
+
+</body>
+</html>
